@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# Data
+*.npy
+*.npz
+*.mseed
+*.sac
+*.dat
+
+# Results
+remote_results/
+results/
+ablation_outputs/
+bidir_outputs/
+psd_comparison_results/
+
+# Build artifacts
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+*.zip
+*.tar.gz
+*.tar
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
