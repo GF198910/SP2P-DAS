@@ -16,8 +16,8 @@ A key innovation is the **bidirectional structure feedback**: the wavefront orie
 ## Installation
 
 ```bash
-git clone https://github.com/[YOUR_USERNAME]/SP2P.git
-cd SP2P
+git clone https://github.com/GF198910/SP2P-DAS.git
+cd SP2P-DAS
 pip install -r requirements.txt
 ```
 
